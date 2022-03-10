@@ -1,1 +1,1 @@
-# swe1_app
+# First Django App
